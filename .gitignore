@@ -1,0 +1,6 @@
+*.Identifier
+obj/Debug/net9.0/ChatApp.AssemblyInfo.cs
+obj/Debug/net9.0/ChatApp.AssemblyInfoInputs.cache
+/bin/
+/obj/
+appsettings.json
